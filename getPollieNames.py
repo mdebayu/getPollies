@@ -6,6 +6,7 @@ import urllib.request
 ## Bug noted. if multiple positions then party incorrect
 
 
+
 url=""
 
 pollies = []
