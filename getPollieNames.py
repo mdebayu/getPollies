@@ -3,6 +3,8 @@ import requests
 import pandas as pd
 import urllib.request
 
+## Bug noted. if multiple positions then party incorrect
+
 
 url=""
 
